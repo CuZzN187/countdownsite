@@ -1,0 +1,10 @@
+/home/cuzzn/RiderProjects/Startup/Startup/bin/Debug/netcoreapp2.0/Startup.deps.json
+/home/cuzzn/RiderProjects/Startup/Startup/bin/Debug/netcoreapp2.0/Startup.runtimeconfig.json
+/home/cuzzn/RiderProjects/Startup/Startup/bin/Debug/netcoreapp2.0/Startup.runtimeconfig.dev.json
+/home/cuzzn/RiderProjects/Startup/Startup/bin/Debug/netcoreapp2.0/Startup.dll
+/home/cuzzn/RiderProjects/Startup/Startup/bin/Debug/netcoreapp2.0/Startup.pdb
+/home/cuzzn/RiderProjects/Startup/Startup/obj/Debug/netcoreapp2.0/Startup.csproj.CoreCompileInputs.cache
+/home/cuzzn/RiderProjects/Startup/Startup/obj/Debug/netcoreapp2.0/Startup.AssemblyInfoInputs.cache
+/home/cuzzn/RiderProjects/Startup/Startup/obj/Debug/netcoreapp2.0/Startup.AssemblyInfo.cs
+/home/cuzzn/RiderProjects/Startup/Startup/obj/Debug/netcoreapp2.0/Startup.dll
+/home/cuzzn/RiderProjects/Startup/Startup/obj/Debug/netcoreapp2.0/Startup.pdb
